@@ -1,0 +1,12 @@
+#gg {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+#b1i {
+    border: 5px solid black;
+    text-align: center;
+    font-weight: bolder;
+}
