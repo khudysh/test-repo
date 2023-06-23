@@ -7,7 +7,7 @@ async function getCities() {
 
 getCities()
 
-
+let gg = 5;
 // let url = 'https://proverili.ru/api/areas';
 // let res = $.ajax(url, { method: 'POST', dataType: 'json', })
 // console.log(res)
