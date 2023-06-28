@@ -4,7 +4,7 @@ let gg = 7;
 // let res = $.ajax(url, { method: 'POST', dataType: 'json', })
 // console.log(res)
 
-let mas = [1,2,3]
+let mas = []
 
 // $.ajax({ 
 //     type: 'POST', 
