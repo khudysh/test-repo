@@ -1,4 +1,4 @@
-let gg = 88
+let gg = 9999
 // let url = 'https://proverili.ru/api/areas';
 // let res = $.ajax(url, { method: 'POST', dataType: 'json', })
 // console.log(res)
